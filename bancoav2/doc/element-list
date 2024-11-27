@@ -1,0 +1,5 @@
+br.ucsal.bancoav2
+br.ucsal.bancoav2.controller
+br.ucsal.bancoav2.entities
+br.ucsal.bancoav2.repository
+br.ucsal.bancoav2.service
